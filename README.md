@@ -2,8 +2,7 @@
 
 Pythonで開発した、複数銘柄の株価を可視化・比較・予測するWebアプリです。
 
-**公開URL:** https://fuchiko-stock-app.streamlit.app
-
+**公開URL:** https://gms.gdl.jp/~fuchiko/stock/
 ---
 
 ## 背景
